@@ -1,0 +1,56 @@
+{
+  "name": "Janken Juveniles #515",
+  "symbol": "JJ",
+  "description": "This collection's Metaplex collection standard NFT does not have metadata URI. If you have the update authority, you can change the picture/description on this page by updating the collection standard NFT and filling in the right metadata URI.",
+  "seller_fee_basis_points": 200,
+  "image": "https://img-cdn.magiceden.dev/rs:fill:640:640:0:0/plain/https://dweb.link/ipfs/bafybeicqkpskvvhsrz5mqep3keczidbkrwhcmyfw54tpigiz7xalfkmcua/463.png",
+  "attributes": [
+   {
+      "trait_type": "Background",
+      "value": "Wavy Orange"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "Yoyo"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Corrupt"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Tshirt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Astonished"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Aullik"
+    },
+    {
+      "trait_type": "Head Accessory",
+      "value": "SolanaEarring"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "8CA6cwo9PpqUsDB8WU4vB5eFJYRv3cA3kYyrGy2p5iAZ",
+        "share": 100
+      }
+    ]
+  }
+}
